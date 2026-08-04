@@ -1,0 +1,3 @@
+packet TempMsg {
+    double temperature;
+}
